@@ -1,0 +1,21 @@
+Explica brevemente qué función cumple cada uno. Cada explicación debe tener 2 o 3 líneas:
+
+Sistema operativo:
+Es el software base que controla el hardware del computador. Administra recursos como memoria y CPU, 
+y permite que otros programas se ejecuten correctamente.
+
+Node.js:
+Es un entorno de ejecución que permite correr JavaScript fuera del navegador. Actúa como intermediario 
+para que el sistema operativo procese y ejecute el código como servidor.
+
+Aplicación server.js:
+Es el archivo principal donde se define la lógica del servidor. Allí se programan las rutas y la forma 
+en que la aplicación responde a las solicitudes de los usuarios.
+
+Puerto:
+Es el identificador numérico que usa el servidor para establecer comunicación. Permite que el navegador 
+se conecte a la aplicación en una dirección específica.
+
+Logs:
+Son registros de actividad del sistema donde se almacenan eventos y errores. Sirven para monitorear el funcionamiento 
+y facilitar la detección de fallos.
